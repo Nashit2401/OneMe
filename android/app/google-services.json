@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999742923984",
+    "project_id": "oneme-4fbdb",
+    "storage_bucket": "oneme-4fbdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999742923984:android:975dbe6cc669f0c4d7aad5",
+        "android_client_info": {
+          "package_name": "com.oneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999742923984-hlicbe1262bcs301q6uoqikcc57haqqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRUkwNGk7BT0WkAZ4K537wjjMCWEIGIAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999742923984-hlicbe1262bcs301q6uoqikcc57haqqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
